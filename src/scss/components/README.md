@@ -1,0 +1,1 @@
+Put here scss for each component

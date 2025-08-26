@@ -1,0 +1,10 @@
+/***
+This file is used to imports all the scss that are used across all providers.
+Don't use this file to add anything more than imports, if so PR won't be accepted.
+*/
+
+// Put first the scss that imports your based design system
+// @import "Mybased design system";
+@import "../layout.scss";
+@import "../header.scss";
+@import "../breakpointsOverride.scss"

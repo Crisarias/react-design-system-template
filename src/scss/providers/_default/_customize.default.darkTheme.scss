@@ -1,0 +1,30 @@
+/***
+Use this file to define css variables in the form --variable: value.
+The idea is to use this variables to override bootstrap styles in the different scss files in this project.
+Also this variables can be used for theming and customization purposes.
+Do not declarate again the css variable if the value is the same as the _customize.default.lightTheme file 
+*/
+
+[data-bs-theme=dark] {
+  // Local Variables
+
+  // Theme Global
+
+  // Theme Components
+
+  // Footer
+
+  //Cards
+
+  // Dropdowns
+
+  // Forms
+
+  // Navbar
+
+  // Tabs 
+
+  // Typography
+
+  //Alert
+}

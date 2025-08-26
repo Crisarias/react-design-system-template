@@ -1,0 +1,1 @@
+Here create all the shared React shared components of your design system should, create a folder with the name of the componenet, folder should have the files ./folder/component.tsx, ./folder/component.scss, ./folder/component.types.tsx, ./folder/component.test.tsx, ./folder/component.stories.tsx and a ./folder/index.ts that exports the files and types that you want to expose.
